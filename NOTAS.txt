@@ -1,0 +1,2 @@
+Agregue el 29/04/2020 
+npm i --save pdf-maker
